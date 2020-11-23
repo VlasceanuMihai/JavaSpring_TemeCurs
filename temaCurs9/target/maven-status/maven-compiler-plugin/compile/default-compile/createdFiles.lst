@@ -1,0 +1,15 @@
+com\devmind\annotations\temaCurs\IAutomobil.class
+com\devmind\annotations\temaCurs\Bus.class
+com\devmind\annotations\temaCurs\AutomobileConfig.class
+com\devmind\annotations\temaCurs\Carr.class
+com\devmind\annotations\temaCurs\Motorcycle.class
+com\devmind\annotations\temaCurs\AutomobileService.class
+com\devmind\annotations\springapp\ITeacheringService.class
+com\devmind\annotations\springapp\MySqlKnowledge.class
+com\devmind\annotations\springapp\TestBeanAnnotation.class
+com\devmind\annotations\springapp\WebDevTeacher.class
+com\devmind\annotations\temaCurs\AutomobileInterfaceService.class
+com\devmind\annotations\temaCurs\Motor.class
+com\devmind\annotations\springapp\FrameworkKnowledge.class
+com\devmind\annotations\springapp\ConfigCurs9.class
+com\devmind\annotations\springapp\TipsAndTricksService.class
